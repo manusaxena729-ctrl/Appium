@@ -1,3 +1,9 @@
+
+<img width="697" height="443" alt="image" src="https://github.com/user-attachments/assets/472f90a7-ab6e-4673-b72c-0314b5697403" />
+
+<img width="871" height="507" alt="image" src="https://github.com/user-attachments/assets/da7de408-d666-4d6e-b976-4e7c2857d79f" />
+
+
 **How to run the Project from Local machine**
 1. Pull the code into your machine and import in IDE (Eclipse/intelliJ).
 2. Go to testng.xml -> Run this file as TestNG suite (you should have done the setup for Appium)
