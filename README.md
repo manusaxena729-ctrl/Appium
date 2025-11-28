@@ -18,9 +18,4 @@
 <img width="1440" alt="Screenshot 2022-01-10 at 10 34 55 AM" src="https://user-images.githubusercontent.com/26399692/148720618-a34cc5ae-578c-4716-be05-80c3d31a5e41.png">
 
 ------------------------------------------------------------
-**How to run the Project from Jenkins**
-[__Final-OC_Appium-Github.pdf](https://github.com/rajatt95/MasterAppiumFramework_TDD/files/7450866/__Final-OC_Appium-Github.pdf)
-![image](https://user-images.githubusercontent.com/26399692/139624776-cded4554-c2af-4e52-aed9-b1ac715572a5.png)
-------------------------------------------------------------
-Email to User(s) using Jenkins:
-![image](https://user-images.githubusercontent.com/26399692/139624661-d2652a4c-798b-40c7-804f-cbb18892dd4c.png)
+In progress currently learning.......
